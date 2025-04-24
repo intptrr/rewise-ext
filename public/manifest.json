@@ -1,6 +1,6 @@
 {
   "name": "Rewise",
-  "description": "",
+  "description": "A browser extension that helps managing credit card offers",
   "version": "1.0",
   "manifest_version": 3,
   "action": {
